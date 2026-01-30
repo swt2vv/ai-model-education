@@ -1,0 +1,6 @@
+transformers==4.36.2
+datasets==2.16.1
+accelerate>=0.20.1
+torch>=2.0.0
+numpy
+pandas
